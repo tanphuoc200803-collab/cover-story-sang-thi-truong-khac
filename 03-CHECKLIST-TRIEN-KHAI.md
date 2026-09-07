@@ -34,3 +34,14 @@
 - `00-PHAN-TICH-THI-TRUONG.md` — phân tích khán giả + ma trận bản địa hóa
 - `01-KICH-BAN-DUC.md` — 2 kịch bản DE + thư viện tiêu đề + từ cấm HWG
 - `02-KICH-BAN-BA-LAN.md` — 2 kịch bản PL + Shorts + checklist lỗi dịch
+
+## 5. Full scripts đã viết (thư mục `scripts/`)
+| File | Thị trường | Nội dung |
+|---|---|---|
+| `DE-01-nieren-ab-65.md` | 🇩🇪 | 5 Lebensmittel / Nieren ab 65 — ~15 phút, đủ mô tả + comment ghim |
+| `DE-02-3-uhr-nachts.md` | 🇩🇪 | Aufwachen um 3 Uhr — ~13 phút, có bài tập 4-7-8 |
+| `PL-01-nerki-po-60.md` | 🇵🇱 | Nerki po 60 (bản PL của DE-01) — ~11 phút + 3 Shorts |
+| `PL-02-tarczyca.md` | 🇵🇱 | 7 sygnałów tarczyca — chủ đề bản địa PL + 2 Shorts |
+
+Mỗi file gồm: script word-for-word (đọc thẳng vào mic), timestamp, mô tả video copy-paste, comment ghim.
+**Trước khi thu:** bản PL bắt buộc cho người bản xứ đọc soát (biến cách + dạng Pan/Pani).
